@@ -4,24 +4,19 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/r3dm4st3r?&title=Profile%20Views)
 
-### 💻 Most used languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3dm4st3r&layout=compact)](https://prafullaranjan.com)  
+**About me**
+
+- 💼 FrontEnd Engineer at [Inexture](http://inexture.com/)
+- ❤️ I love writing Javascript, and building fun experiments on type-level
+- 💬 Ask me about anything [here](https://prafullaranjan.com)
 
 
-<p align="left">
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/r3dm4st3r/localtodo)"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/badges/shields"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shields"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/Rapptz/discord.py"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="discord.py"></a>
-  <a href="https://github.com/o2sh/onefetch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="onefetch"></a>
-  <a href="https://github.com/nextcord/nextcord"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
-</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=localtodo)](https://github.com/r3dm4st3r/musicpro)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=click2wap)](https://github.com/r3dm4st3r/click2wap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=localtodo)](https://github.com/r3dm4st3r/localtodo)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=click2wap)](https://github.com/r3dm4st3r/click2wap)
 
 
 ### 🔥 Streak stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=r3dm4st3r&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="r3dm4st3r's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3dm4st3r&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
