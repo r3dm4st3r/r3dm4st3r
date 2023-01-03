@@ -6,13 +6,13 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Inexture](http://inexture.com/)
+- 💼 FrontEnd Engineer
 - ❤️ I love writing Javascript, and building fun experiments on type-level
 - 💬 Ask me about anything [here](https://prafullaranjan.com)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=localtodo)](https://github.com/r3dm4st3r/localtodo)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=click2wap)](https://github.com/r3dm4st3r/click2wap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=jiosaavn-api)](https://github.com/r3dm4st3r/jiosaavn-api)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dm4st3r&repo=react-vite-ts)](https://github.com/r3dm4st3r/react-vite-ts)
 
 
 ### 🔥 Streak stats
