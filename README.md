@@ -42,8 +42,8 @@
 
 
 ### Things I love:
-- 📫 React + NextJs + JS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ Backend + Frontend Development
+- 📫 Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ Exploring technology
 - 💬 Listening Music 😄
 
 
