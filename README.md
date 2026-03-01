@@ -22,7 +22,7 @@
 |:---|:---|
 | **Building** | Scalable systems · Microservices · Monorepos |
 | **Focus** | Backend architecture · Infra design · DevOps |
-| **Portfolio** | [github](https://r3dm4st3r.github.io) |
+| **Portfolio** | [Github](https://r3dm4st3r.github.io/r3dm4st3r) |
 | **Ask me** | NestJS, Hono, Bun, Postgres, Laravel, React, TypeScript, WebSockets, Docker |
 | **Reach** | [prafullaranjanweb@gmail.com](mailto:prafullaranjanweb@gmail.com) |
 | **Fun fact** | Type-level programming & infra-level thinking |
