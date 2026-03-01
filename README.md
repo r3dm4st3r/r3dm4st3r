@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0ea5e9&height=120&section=header&text=Prafulla+Ranjan&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=255&color=timeGradient&text=R3DM4ST3R&section=header&reversal=true&fontSize=45&textBg=false&strokeWidth=1&stroke=f7f5f5" alt="Header"/>
 </p>
 
 <p align="center">
   <strong>नमस्ते 🙏</strong> · Sr. Software Engineer · Full Stack · 7 Years
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/github-profile-views?username=r3dm4st3r&color=0ea5e9&style=flat-square" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/r3dm4st3r?color=0ea5e9&style=flat-square" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open_to_Work-✓-22c55e?style=flat-square" alt="Status"/>
 </p>
 
 <p align="center">
@@ -23,8 +17,6 @@
 ---
 
 ## About
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding"/>
 
 | | |
 |:---|:---|
@@ -102,11 +94,6 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3dm4st3r&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3dm4st3r&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3dm4st3r&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak"/>
 </p>
 
@@ -129,15 +116,6 @@
 
 <br>
 
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=r3dm4st3r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2" alt="Trophies"/>
-</p>
-
-<br>
 
 ---
 
@@ -153,5 +131,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=60&section=footer" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=timeGradient&text=Thanks&section=header&reversal=true&fontSize=45&textBg=false&strokeWidth=1&stroke=f7f5f5" alt="Thanks"/>
 </p>
