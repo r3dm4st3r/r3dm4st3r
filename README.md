@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=255&color=timeGradient&text=R3DM4ST3R&section=header&reversal=true&fontSize=45&textBg=false&strokeWidth=1&stroke=f7f5f5" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=255&color=timeGradient&text=R3DM4ST3R&section=header&reversal=true&fontSize=45&textBg=false&strokeWidth=1&stroke=f7f5f5" alt="Header"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 |:---|:---|
 | **Building** | Scalable systems · Microservices · Monorepos |
 | **Focus** | Backend architecture · Infra design · DevOps |
-| **Portfolio** | [prafullaranjan.com](https://prafullaranjan.com) |
+| **Portfolio** | [github](https://r3dm4st3r.github.io) |
 | **Ask me** | NestJS, Hono, Bun, Postgres, Laravel, React, TypeScript, WebSockets, Docker |
 | **Reach** | [prafullaranjanweb@gmail.com](mailto:prafullaranjanweb@gmail.com) |
 | **Fun fact** | Type-level programming & infra-level thinking |
@@ -94,11 +94,11 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3dm4st3r&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3dm4st3r&hide_border=true&background=transparent" width="100%" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r3dm4st3r&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r3dm4st3r&hide_border=true&bg_color=transparent" alt="Activity" width="100%"/>
 </p>
 
 <br>
@@ -131,5 +131,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=timeGradient&text=Thanks&section=header&reversal=true&fontSize=45&textBg=false&strokeWidth=1&stroke=f7f5f5" alt="Thanks"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=timeGradient&text=Thanks&section=header&reversal=true&fontSize=15&textBg=false" width="100%" alt="Thanks"/>
 </p>
